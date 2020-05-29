@@ -1,0 +1,14 @@
+---
+Title: Assessment - 1
+Standards:
+  -
+    Title: Assessment - 1
+    UID: cafcf888-a156-11ea-a48d-60f81dc9f21e
+    Description: First SQL Assessment
+    SuccessCriteria:
+      - Solve SQL challenges
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: caff0254-a156-11ea-b1b4-60f81dc9f21e
+        Path: /challenges/assessment1.md
