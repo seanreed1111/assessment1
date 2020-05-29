@@ -1,0 +1,22 @@
+---
+Title: World DB - SQL Problems
+Standards:
+  -
+    Title: World Database
+    UID: 65cd1f06-6d5d-11ea-80d8-60f81dc9f21e
+    Description: Part 1
+    SuccessCriteria:
+      - Solve SQL challenges
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 65cd1ede-6d5d-11ea-9311-60f81dc9f21e
+        Path: /challenges/world1.md
+      -
+        Type: Lesson
+        UID: 65cd1ede-6d5d-11ea-9390-60f81dc9f2e
+        Path: /challenges/world2.md
+      -
+        Type: Lesson
+        UID: 65cd1ede-6d5d-11ea-5150-60f81dc9f21e
+        Path: /challenges/world3.md
